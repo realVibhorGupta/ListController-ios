@@ -1,0 +1,6 @@
+framework module Pods_LBTATools__ListController {
+  umbrella header "Pods-LBTATools: ListController-umbrella.h"
+
+  export *
+  module * { export * }
+}
